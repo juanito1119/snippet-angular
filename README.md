@@ -12,4 +12,5 @@ Para activar cada snippet de angular tenemos el prefijo de (a) esto debido para 
 Luego de anterior ejemplo pasamos al listado de los snippet disponibles para Angular
 
 ang-repeat+TAB
+
 ng-repeat=" this in this "
